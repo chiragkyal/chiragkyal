@@ -1,6 +1,5 @@
-### Hi there, I'm [Chirag!](https://chiragkyal.github.io) 👋
 [![Banner](https://github.com/chiragkyal/chiragkyal/raw/master/Banner.png)](https://chiragkyal.github.io/)
-
+### Hi there, I'm [Chirag!](https://chiragkyal.github.io) 👋
 <!--
 **chiragkyal/chiragkyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
