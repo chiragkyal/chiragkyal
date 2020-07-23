@@ -1,4 +1,4 @@
-### Hi there! I am Chirag!!👋
+###👋 <Hello World!> I am Chirag!!
 ![Banner](https://github.com/chiragkyal/chiragkyal/raw/master/Banner.png)
 
 <!--
