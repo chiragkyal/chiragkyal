@@ -1,5 +1,5 @@
 ### <Hello World!> I am Chirag!! 👋
-![Banner](https://github.com/chiragkyal/chiragkyal/raw/master/Banner.png)
+[![Banner](https://github.com/chiragkyal/chiragkyal/raw/master/Banner.png)](https://chiragkyal.github.io/)
 
 <!--
 **chiragkyal/chiragkyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
